@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "region": "Americas"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia"
+  },
+  {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe"
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "capital": "London",
+    "region": "Europe"
+  }
+]
